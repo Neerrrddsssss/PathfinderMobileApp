@@ -1,0 +1,12 @@
+C:\Users\Kyler\Documents\GitHub\pathfinder\PathfinderApp\bin\PathfinderApp.dll.config
+C:\Users\Kyler\Documents\GitHub\pathfinder\PathfinderApp\bin\PathfinderApp.dll
+C:\Users\Kyler\Documents\GitHub\pathfinder\PathfinderApp\bin\PathfinderApp.pdb
+C:\Users\Kyler\Documents\GitHub\pathfinder\PathfinderApp\obj\Debug\PathfinderApp.csprojResolveAssemblyReference.cache
+C:\Users\Kyler\Documents\GitHub\pathfinder\PathfinderApp\obj\Debug\PathfinderApp.dll
+C:\Users\Kyler\Documents\GitHub\pathfinder\PathfinderApp\obj\Debug\PathfinderApp.pdb
+C:\Users\Kyler\Documents\GitHub\pathfinders\PathfinderApp\bin\PathfinderApp.dll.config
+C:\Users\Kyler\Documents\GitHub\pathfinders\PathfinderApp\bin\PathfinderApp.dll
+C:\Users\Kyler\Documents\GitHub\pathfinders\PathfinderApp\bin\PathfinderApp.pdb
+C:\Users\Kyler\Documents\GitHub\pathfinders\PathfinderApp\obj\Debug\PathfinderApp.csprojResolveAssemblyReference.cache
+C:\Users\Kyler\Documents\GitHub\pathfinders\PathfinderApp\obj\Debug\PathfinderApp.dll
+C:\Users\Kyler\Documents\GitHub\pathfinders\PathfinderApp\obj\Debug\PathfinderApp.pdb
